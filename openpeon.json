@@ -1,0 +1,207 @@
+{
+  "cesp_version": "1.0",
+  "name": "claptrap-fr",
+  "display_name": "ClapTrap FR — Borderlands 2",
+  "version": "1.0.0",
+  "description": "Répliques de ClapTrap en français depuis Borderlands 2",
+  "author": {
+    "name": "yourname",
+    "github": "yourname"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "fr",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_session_start_1.mp3",
+          "label": "Je me présente, je suis un robot multifonction CL4-PTP."
+        },
+        {
+          "file": "sounds/claptrap_session_start_2.mp3",
+          "label": "Tiens, prends ce système écho que je n'ai pas piqué sur un de ses cadavres."
+        },
+        {
+          "file": "sounds/claptrap_session_start_3.mp3",
+          "label": "On fonctionne à nouveau ! Je vois un sbire à fière allure, et un robot incroyablement séduisant !"
+        },
+        {
+          "file": "sounds/claptrap_session_start_4.mp3",
+          "label": "Ah ah ! Je suis vivant !"
+        },
+        {
+          "file": "sounds/claptrap_session_start_5.mp3",
+          "label": "Ouvre-toi !"
+        },
+        {
+          "file": "sounds/claptrap_session_start_6.mp3",
+          "label": "Plus rien ne peut nous arrêter, Sbire !"
+        },
+        {
+          "file": "sounds/claptrap_session_start_7.mp3",
+          "label": "Je te guiderai sur le champ de bataille !"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_task_complete_1.mp3",
+          "label": "Oh ! J'ai quelque chose pour toi !"
+        },
+        {
+          "file": "sounds/claptrap_task_complete_2.mp3",
+          "label": "Et enfin, tu devras danser pour mon petit plaisir !"
+        },
+        {
+          "file": "sounds/claptrap_task_complete_3.mp3",
+          "label": "Et ça s'ouvre !"
+        },
+        {
+          "file": "sounds/claptrap_task_complete_4.mp3",
+          "label": "J'ai dit ! Et ça s'ouvre ! J'ai pas dit ! Et ferme les portes de secours !"
+        },
+        {
+          "file": "sounds/claptrap_task_complete_5.mp3",
+          "label": "Yes ! J'ai réussi ! Désactivation des défenses de la porte !"
+        },
+        {
+          "file": "sounds/claptrap_task_complete_6.mp3",
+          "label": "Vous n'y arrivez pas, Sbire !"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_resource_limit_1.mp3",
+          "label": "Si on met de côté la douleur terrible que je ressens, tout va super bien !"
+        },
+        {
+          "file": "sounds/claptrap_resource_limit_2.mp3",
+          "label": "Saloperie de porte verrouillée !"
+        },
+        {
+          "file": "sounds/claptrap_resource_limit_3.mp3",
+          "label": "Mes escaliers !"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_task_acknowledge_1.mp3",
+          "label": "je serai ton chef clairvoyant, et toi, tu seras mon courageux sbire ! Bien ! Laisse-moi ouvrir cette porte, et partons en chasse d'un garobo !"
+        },
+        {
+          "file": "sounds/claptrap_task_acknowledge_2.mp3",
+          "label": "Non, c'est pour rire ! Allez, on s'en fout !"
+        },
+        {
+          "file": "sounds/claptrap_task_acknowledge_3.mp3",
+          "label": "Mets-toi au canon ? Fais-moi péter cette porte, mais attends que je sois en sécurité, c'est compris ?"
+        },
+        {
+          "file": "sounds/claptrap_task_acknowledge_4.mp3",
+          "label": "Alors attends ! Je me mets là pour bien te montrer où tu dois tirer quand je me serai poussé."
+        },
+        {
+          "file": "sounds/claptrap_task_acknowledge_5.mp3",
+          "label": "Ce que je me propose de faire dès que je serai bien certain que tu as compris toutes mes instructions."
+        },
+        {
+          "file": "sounds/claptrap_task_acknowledge_6.mp3",
+          "label": "Tu as bien compris ? Je sais que c'est un peu compliqué, mais reste concentré !"
+        },
+        {
+          "file": "sounds/claptrap_task_acknowledge_7.mp3",
+          "label": "Tire maintenant au canon sur cette porte !"
+        },
+        {
+          "file": "sounds/claptrap_task_acknowledge_8.mp3",
+          "label": "Une porte ? Tu crois que ça m'arrêtera, Jack ? J'ai été conçu pour les ouvrir !"
+        },
+        {
+          "file": "sounds/claptrap_task_acknowledge_9.mp3",
+          "label": "Je suis fait pour ouvrir les portes !"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_task_error_1.mp3",
+          "label": "Avance, sbire non aveugle ! Préviens-moi si un obstacle se présente !"
+        },
+        {
+          "file": "sounds/claptrap_task_error_2.mp3",
+          "label": "Disons que ce site a échappé !"
+        },
+        {
+          "file": "sounds/claptrap_task_error_3.mp3",
+          "label": "Il paraît que se faire dévorer par un garobo n'a absolument rien de dégradant."
+        },
+        {
+          "file": "sounds/claptrap_task_error_4.mp3",
+          "label": "Qu'as-tu fait, Sbire ?"
+        },
+        {
+          "file": "sounds/claptrap_task_error_5.mp3",
+          "label": "Non !"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_user_spam_1.mp3",
+          "label": "Ah ! Ça recommence !"
+        },
+        {
+          "file": "sounds/claptrap_user_spam_2.mp3",
+          "label": "Encore un autre test ! Je suis vraiment fier de toi, Sbire !"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_input_required_1.mp3",
+          "label": "Ah ! C'est une porte Hyperion ! Jeu d'enfant ! Ouuuvre-toi !"
+        },
+        {
+          "file": "sounds/claptrap_input_required_2.mp3",
+          "label": "Sbire ! Ton maître a besoin d'aide !"
+        },
+        {
+          "file": "sounds/claptrap_input_required_3.mp3",
+          "label": "Sbire, par ici ! Ton maître t'ordonne de venir !"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_session_end_1.mp3",
+          "label": "Bon bah, on s'est bien amusés !"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/claptrap_task_progress_1.mp3",
+          "label": "Enfin, je m'impatiente un peu."
+        },
+        {
+          "file": "sounds/claptrap_task_progress_2.mp3",
+          "label": "Attends un peu que j'ouvre cette porte !"
+        },
+        {
+          "file": "sounds/claptrap_task_progress_3.mp3",
+          "label": "Je suis à deux doigts de désactiver les défenses !"
+        }
+      ]
+    }
+  }
+}
